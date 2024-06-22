@@ -36,7 +36,6 @@ body {
 
 body {
   overflow-x: hidden;
-
 }
 
 
@@ -827,11 +826,6 @@ body {
 }
 
 @media (max-width: 600px) {
-
-  body {
-    overflow-x: hidden;
-  
-  }
   #loader {
     height: 100%;
     width: 100%;
