@@ -36,7 +36,6 @@ body {
 
 body {
   overflow-x: hidden;
-  overflow-y: hidden;
 
 }
 
@@ -830,7 +829,7 @@ body {
 @media (max-width: 600px) {
 
   body {
-    overflow-y: hidden;
+    overflow-x: hidden;
   
   }
   #loader {
